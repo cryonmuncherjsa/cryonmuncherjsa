@@ -1,5 +1,15 @@
-### Hi there 👋
 
+### Hi there 👋
+# I'm Jacob Shapiro Ainsworth  
+
+# about me 
+###
+
+# My coding knowledge
+###### 
+- HTML 
+- scratch 
+# project portfolio 
 <!--
 **cryonmuncherjsa/cryonmuncherjsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
