@@ -1,3 +1,5 @@
+![rick-roll-rick-ashley](https://github.com/cryonmuncherjsa/cryonmuncherjsa/assets/159732905/118a836a-4b9e-4e6c-9a63-b6e6ca0be7fb)
+
 
 ### Hi there 👋
 # I'm Jacob Shapiro Ainsworth  
@@ -9,7 +11,10 @@
 ###### 
 - HTML 
 - scratch 
-# project portfolio 
+# project portfolio  
+######
+-monkey game ](https://scratch.mit.edu/projects/724375758/)
+
 <!--
 **cryonmuncherjsa/cryonmuncherjsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
